@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SK-Lib-cstdlib-strtoul-Bagian15__CPP", "SK-Lib-cstdlib-strtoul-Bagian15__CPP\SK-Lib-cstdlib-strtoul-Bagian15__CPP.vcxproj", "{8C2E2AD3-8C23-4205-BFA3-156A1D3DF654}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C2E2AD3-8C23-4205-BFA3-156A1D3DF654}.Debug|x64.ActiveCfg = Debug|x64
+		{8C2E2AD3-8C23-4205-BFA3-156A1D3DF654}.Debug|x64.Build.0 = Debug|x64
+		{8C2E2AD3-8C23-4205-BFA3-156A1D3DF654}.Debug|x86.ActiveCfg = Debug|Win32
+		{8C2E2AD3-8C23-4205-BFA3-156A1D3DF654}.Debug|x86.Build.0 = Debug|Win32
+		{8C2E2AD3-8C23-4205-BFA3-156A1D3DF654}.Release|x64.ActiveCfg = Release|x64
+		{8C2E2AD3-8C23-4205-BFA3-156A1D3DF654}.Release|x64.Build.0 = Release|x64
+		{8C2E2AD3-8C23-4205-BFA3-156A1D3DF654}.Release|x86.ActiveCfg = Release|Win32
+		{8C2E2AD3-8C23-4205-BFA3-156A1D3DF654}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5180211F-1691-4413-A9D0-EDDF1BF8E668}
+	EndGlobalSection
+EndGlobal
